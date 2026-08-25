@@ -16,6 +16,10 @@ dataset/train/labels/*
 dataset/valid/labels/*
 dataset/test/labels/*
 
+videos/
+*.mp4
+*.mov
+*.avi
 
 # Dataset archives
 *.zip
