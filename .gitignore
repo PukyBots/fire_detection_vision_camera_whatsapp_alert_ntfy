@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Environment variables / secrets
+.env
+.env.*
+
+dataset/train/images/*
+dataset/valid/images/*
+dataset/test/images/*
+
+dataset/train/labels/*
+dataset/valid/labels/*
+dataset/test/labels/*
+
+
+# Dataset archives
+*.zip
+*.tar
+*.tar.gz
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
